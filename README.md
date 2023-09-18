@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Install server dependencies:
 
-```sh
+   ```sh
    cd server
    npm install
 
