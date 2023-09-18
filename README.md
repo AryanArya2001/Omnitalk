@@ -40,3 +40,11 @@ Before you begin, ensure you have met the following requirements:
    ```sh
    git clone https://github.com/your-username/omnitalk.git
    cd omnitalk
+
+2. Install server dependencies:
+
+```sh
+   cd server
+   npm install
+
+
