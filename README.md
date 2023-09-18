@@ -47,4 +47,39 @@ Before you begin, ensure you have met the following requirements:
    cd server
    npm install
 
+3. install client dependencies (if needed):
+
+```sh
+cd client
+npm install
+
+4. Configure environment variables (e.g., database connection, JWT secret) as needed.
+
+5. Start the server and client (if needed) in separate terminal windows:
+
+```sh
+cd server
+npm start
+
+```sh
+cd client
+npm start
+
+6. Open your web browser and access Omnitalk at http://localhost:3000.
+
+Usage
+->Register a user account or log in if you have an existing account.
+->Explore chat rooms, engage in text chat, voice calls, and video conferences.
+->Utilize the question-answering feature for quick responses.
+->Share multimedia content and collaborate effectively.
+
+Contributing
+Contributions are welcome! Please follow the Contributing Guidelines to get started.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+
+
 
